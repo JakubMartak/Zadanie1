@@ -1,0 +1,1 @@
+Výhody CDD oproti klasickým technikám vývoja pre Java aplikácie
