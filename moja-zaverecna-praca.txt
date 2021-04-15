@@ -4,3 +4,5 @@ Napriek nespochybniteľným výhodám Component Driven Development (CDD) pri v�
 Cieľ práce:   Primárnym cieľom tejto práce je analyzovať jak CDD tak aj klasický spôsob vývoja Java aplikácií a identifikovať prínosy ako aj identifikovať riziká oboch spôsobov. Sekundárnym cieľom práce je pokúsiť sa zodpovedať otázku, prečo sa Java vývojári tak často vyhýbajú CDD. Očakávaným výstupom tejto práce je jednak analýza uvedených skutočností ako aj skupina experimentálnych aplikácií realizovaných oboma spomínanými spôsobmi vývoja. 
 Charakter práce: vývoj softvéru - pozostávajúci z popisu riešeného problému, analýzy existujúcich riešení, návrhu vlastného riešenia, metodiky vývoja/tvorby, implementácie, popisu vytvoreného riešenia. 
 Požiadavky na vedomosti a zručnosti študenta: zručnosť pri vývoji Java aplikácií, schopnosť riešenia komplexného problému.
+
+2021/2022
